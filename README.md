@@ -1,3 +1,5 @@
+> **Moved.** Since 2026-10-06 this package lives in [eca-rsi](https://github.com/chansigit/eca-rsi) as `harness_bridge/` (its history included; decision 0018). This repository is read-only.
+
 # Agent Harness Bridge
 
 `agent-harness-bridge` gives applications one small, submit-tool-oriented API
